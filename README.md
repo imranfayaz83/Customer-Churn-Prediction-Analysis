@@ -50,7 +50,7 @@
 
 ##  Business Problem
 
-> *"We're losing 26.5% of our customers every year — which ones are about to leave, and what can we do about it before it's too late?"*
+> ## "We're losing 26.5% of our customers every year — which ones are about to leave, and what can we do about it before it's too late?"
 
 Customer churn is one of the most expensive problems in the telecom industry. Acquiring a new customer costs **5–7× more** than retaining an existing one. This project answers three critical business questions:
 
